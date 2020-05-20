@@ -1,0 +1,7 @@
+C:\Users\Cassius\Desktop\GitHubRepo\StackOverflow\bin\Debug\StackOverflow.exe.config
+C:\Users\Cassius\Desktop\GitHubRepo\StackOverflow\bin\Debug\StackOverflow.exe
+C:\Users\Cassius\Desktop\GitHubRepo\StackOverflow\bin\Debug\StackOverflow.pdb
+C:\Users\Cassius\Desktop\GitHubRepo\StackOverflow\obj\Debug\StackOverflow.csprojAssemblyReference.cache
+C:\Users\Cassius\Desktop\GitHubRepo\StackOverflow\obj\Debug\StackOverflow.csproj.CoreCompileInputs.cache
+C:\Users\Cassius\Desktop\GitHubRepo\StackOverflow\obj\Debug\StackOverflow.exe
+C:\Users\Cassius\Desktop\GitHubRepo\StackOverflow\obj\Debug\StackOverflow.pdb
